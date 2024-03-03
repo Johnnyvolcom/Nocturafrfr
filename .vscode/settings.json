@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.linkedEditing": true,
+  "prettier.prettierPath": "./packages/compiler/node_modules/prettier/index.cjs",
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/0dbd5c4d-f313-43fd-ab52-d6ef6e118f5b/resourceGroups/ElfBar4/providers/Microsoft.Web/sites/ElfBar",
+  "appService.deploySubpath": "."
+}
